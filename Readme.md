@@ -1,6 +1,6 @@
 
 
-# Garbage Classifier and Bin Sorter  
+# Garbage Classifier for Waste Management
 
 This project is an image classification system that classifies garbage into specific categories (e.g., recyclable, hazardous, food, or residual waste) and suggests the appropriate bin for disposal. The system uses a webcam to capture images, a pre-trained TensorFlow model for classification, and OpenCV for visualization.
 
